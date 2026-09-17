@@ -89,4 +89,5 @@ Tailwind CSS.
 
 ## 🤝 Let's Connect
 
-LinkedIn · Portfolio
+https://portfolio-space-eosin.vercel.app/
+https://www.linkedin.com/in/itsvverma/
